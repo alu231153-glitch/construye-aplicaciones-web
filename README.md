@@ -16,4 +16,7 @@ ejercio 4
 <img width="465" height="334" alt="image" src="https://github.com/user-attachments/assets/4f08cb3e-2372-4eac-a2c7-87a25e3c82f0" />
 
 
+<img width="942" height="360" alt="image" src="https://github.com/user-attachments/assets/f4c616c0-7ed2-428c-a5db-f69d8652e502" />
+<img width="403" height="342" alt="image" src="https://github.com/user-attachments/assets/d9ab0a2a-020b-4c62-adbd-3a4551ad7492" />
+
 

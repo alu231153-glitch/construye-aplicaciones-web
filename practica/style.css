@@ -1,0 +1,70 @@
+#mybody{
+    background-color: rgb(0, 255, 221);
+}
+#myh1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#myh2{
+    color: rgb(223, 19, 19);
+    text-align: center;
+    front-size:25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#myh3{
+    color: rgb(199, 40, 40);
+    text-align: center;
+    front-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#myh4{
+    color: rgb(243, 14, 14);
+    text-align: center;
+    front-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#myh5{
+    color: rgb(196, 60, 60);
+    text-align: center;
+    front-size: 25px;
+}
+#myh6{
+    color: rgb(223, 43, 43);
+    text-align: center;
+    front-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#mydiv{ 
+    background-color: #fff;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.biografia{ 
+    background-color: #fff;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.dato{ 
+    margin: 10px 0;
+    color: #555;
+}
+.etiqueta{ 
+    front-weight:Bold;
+    color: #555;
+}
+.valor{ 
+    
+    color: #555;
+}
+
